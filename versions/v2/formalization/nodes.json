@@ -1,0 +1,226 @@
+{
+  "nodes": [
+    {
+      "attribution": null,
+      "authors": [
+        {
+          "affiliation": "ChronoAI Pte Ltd, Singapore",
+          "name": "Haobo Ma"
+        },
+        {
+          "affiliation": "National University of Singapore; ChronoAI Pte Ltd, Singapore",
+          "name": "Wenlin Zhang"
+        }
+      ],
+      "claim": "s1",
+      "contributor": null,
+      "identity": "collected:hanna-a389472-congruences:2:s1",
+      "kind": "paper",
+      "label": "Theorem",
+      "lean_source": {
+        "revision": "074df09ddbbef1843ddb383577bfaa827f753e36",
+        "url": "https://github.com/the-omega-institute/trureturing/blob/074df09ddbbef1843ddb383577bfaa827f753e36/D5/S1/Recurrence/Parity/SquareCubeSubstitutionThreeIndexModThree.lean"
+      },
+      "lineage": "collected:hanna-a389472-congruences:s1",
+      "macros": {},
+      "next_step": "Existing Lean evidence is being checked before new proof work.",
+      "proof_basis": null,
+      "proof_state": "preparing",
+      "receipt": null,
+      "record": "hanna-a389472-congruences",
+      "scope": "in_scope",
+      "statement": "For the normalized series \\eqref{eq:def},\n\\[\n 3\\mid a_{3n-1}\\qquad\\text{for every integer }n>1.\n\\]",
+      "status": "preparing",
+      "target_digest": null,
+      "title": "Integral-product extensions and an alternative proof of Dong's (2026) theorem on OEIS A389472, revision 7, COMMENT 3",
+      "toolchain": null,
+      "version": 2,
+      "work": "hanna-a389472-congruences"
+    },
+    {
+      "attribution": null,
+      "authors": [
+        {
+          "affiliation": "ChronoAI Pte Ltd, Singapore",
+          "name": "Haobo Ma"
+        },
+        {
+          "affiliation": "National University of Singapore; ChronoAI Pte Ltd, Singapore",
+          "name": "Wenlin Zhang"
+        }
+      ],
+      "claim": "s2",
+      "contributor": null,
+      "identity": "collected:hanna-a389472-congruences:2:s2",
+      "kind": "paper",
+      "label": "Proposition",
+      "lean_source": {
+        "revision": "074df09ddbbef1843ddb383577bfaa827f753e36",
+        "url": "https://github.com/the-omega-institute/trureturing/blob/074df09ddbbef1843ddb383577bfaa827f753e36/D5/S1/Recurrence/Parity/SquareCubeSubstitutionThreeIndexModThree.lean"
+      },
+      "lineage": "collected:hanna-a389472-congruences:s2",
+      "macros": {},
+      "next_step": "Existing Lean evidence is being checked before new proof work.",
+      "proof_basis": null,
+      "proof_state": "preparing",
+      "receipt": null,
+      "record": "hanna-a389472-congruences",
+      "scope": "in_scope",
+      "statement": "The normalized series satisfies\n\\begin{equation}\n A(x)=x+H(x)^2=x+x^2P(x)^2.\n\\end{equation}\nConsequently $2\\mid a_{2n-1}$ for every $n>1$, and\n$6\\mid a_{6n-1}$ for every $n\\ge1$.\nIts radius of convergence is $r=(\\sqrt5-1)/2$.",
+      "status": "preparing",
+      "target_digest": null,
+      "title": "Integral-product extensions and an alternative proof of Dong's (2026) theorem on OEIS A389472, revision 7, COMMENT 3",
+      "toolchain": null,
+      "version": 2,
+      "work": "hanna-a389472-congruences"
+    },
+    {
+      "attribution": null,
+      "authors": [
+        {
+          "affiliation": "ChronoAI Pte Ltd, Singapore",
+          "name": "Haobo Ma"
+        },
+        {
+          "affiliation": "National University of Singapore; ChronoAI Pte Ltd, Singapore",
+          "name": "Wenlin Zhang"
+        }
+      ],
+      "claim": "s3",
+      "contributor": null,
+      "identity": "collected:hanna-a389472-congruences:2:s3",
+      "kind": "paper",
+      "label": "Corollary",
+      "lean_source": {
+        "revision": "074df09ddbbef1843ddb383577bfaa827f753e36",
+        "url": "https://github.com/the-omega-institute/trureturing/blob/074df09ddbbef1843ddb383577bfaa827f753e36/D5/S1/Recurrence/Parity/SquareCubeSubstitutionThreeIndexModThree.lean"
+      },
+      "lineage": "collected:hanna-a389472-congruences:s3",
+      "macros": {},
+      "next_step": "Existing Lean evidence is being checked before new proof work.",
+      "proof_basis": null,
+      "proof_state": "preparing",
+      "receipt": null,
+      "record": "hanna-a389472-congruences",
+      "scope": "in_scope",
+      "statement": "Every integer-coefficient solution of~\\eqref{eq:def} with constant\ncoefficient zero is $A_b(x)=x+bH(x)^2$ for a unique integer $b$.\nBoth congruences and their factor-six consequence hold for every $b$.\nFor $b\\ne0$ the radius is $r$; for $b=0$ the solution is the polynomial $x$.",
+      "status": "preparing",
+      "target_digest": null,
+      "title": "Integral-product extensions and an alternative proof of Dong's (2026) theorem on OEIS A389472, revision 7, COMMENT 3",
+      "toolchain": null,
+      "version": 2,
+      "work": "hanna-a389472-congruences"
+    },
+    {
+      "attribution": null,
+      "authors": [
+        {
+          "affiliation": "ChronoAI Pte Ltd, Singapore",
+          "name": "Haobo Ma"
+        },
+        {
+          "affiliation": "National University of Singapore; ChronoAI Pte Ltd, Singapore",
+          "name": "Wenlin Zhang"
+        }
+      ],
+      "claim": "s4",
+      "contributor": null,
+      "identity": "collected:hanna-a389472-congruences:2:s4",
+      "kind": "paper",
+      "label": "Proposition",
+      "lean_source": {
+        "revision": "074df09ddbbef1843ddb383577bfaa827f753e36",
+        "url": "https://github.com/the-omega-institute/trureturing/blob/074df09ddbbef1843ddb383577bfaa827f753e36/D5/S1/Recurrence/Parity/SquareCubeSubstitutionThreeIndexModThree.lean"
+      },
+      "lineage": "collected:hanna-a389472-congruences:s4",
+      "macros": {},
+      "next_step": "Existing Lean evidence is being checked before new proof work.",
+      "proof_basis": null,
+      "proof_state": "preparing",
+      "receipt": null,
+      "record": "hanna-a389472-congruences",
+      "scope": "in_scope",
+      "statement": "Let $d\\ge2$ and $s\\ge1$ be integers, let $\\varepsilon\\in\\{1,-1\\}$,\nand put\n\\[\n \\begin{gathered}\n Q(x)=x^d(1+\\varepsilon x)^s,\\quad Q_0(x)=x,\\quad Q_{j+1}(x)=Q(Q_j(x)),\\\\\n P_Q(x)=\\prod_{j\\ge0}(1+\\varepsilon Q_j(x)).\n \\end{gathered}\n\\]\nFor $t\\in\\{1,s\\}$, the series $U_t(x)=xP_Q(x)^t$ is the unique\nseries with constant coefficient zero and linear coefficient one satisfying\n\\begin{equation}\n U_t(Q(x))=x^{d-1}(1+\\varepsilon x)^{s-t}U_t(x).\n\\end{equation}\nIts compositional inverse $T_t$ satisfies\n\\[\n T_t\\bigl(x^{d-1}(1+\\varepsilon x)^{s-t}U_t(x)\\bigr)=Q(x).\n\\]\nWhen $\\varepsilon=1$, both $U_1$ and $U_s$ have radius $r_{d,s}$,\nthe unique positive solution of $r_{d,s}^{d-1}(1+r_{d,s})^s=1$.",
+      "status": "preparing",
+      "target_digest": null,
+      "title": "Integral-product extensions and an alternative proof of Dong's (2026) theorem on OEIS A389472, revision 7, COMMENT 3",
+      "toolchain": null,
+      "version": 2,
+      "work": "hanna-a389472-congruences"
+    },
+    {
+      "attribution": null,
+      "authors": [
+        {
+          "affiliation": "ChronoAI Pte Ltd, Singapore",
+          "name": "Haobo Ma"
+        },
+        {
+          "affiliation": "National University of Singapore; ChronoAI Pte Ltd, Singapore",
+          "name": "Wenlin Zhang"
+        }
+      ],
+      "claim": "s5",
+      "contributor": null,
+      "identity": "collected:hanna-a389472-congruences:2:s5",
+      "kind": "paper",
+      "label": "Corollary",
+      "lean_source": {
+        "revision": "074df09ddbbef1843ddb383577bfaa827f753e36",
+        "url": "https://github.com/the-omega-institute/trureturing/blob/074df09ddbbef1843ddb383577bfaa827f753e36/D5/S1/Recurrence/Parity/SquareCubeSubstitutionThreeIndexModThree.lean"
+      },
+      "lineage": "collected:hanna-a389472-congruences:s5",
+      "macros": {},
+      "next_step": "Existing Lean evidence is being checked before new proof work.",
+      "proof_basis": null,
+      "proof_state": "preparing",
+      "receipt": null,
+      "record": "hanna-a389472-congruences",
+      "scope": "in_scope",
+      "statement": "For $s=2,3,4,5,6$, put $Q=x^2(1+x)^s$, $U=xP_Q$ and $V=xP_Q^s$.\nThen $U$ is respectively the generating function of A369545--A369549,\nand $V$ that of A369552--A369556~\\cite{hanna-family}. Their numbered\nfunctional, inverse and product identities hold, and\n\\[\n U(x)^s=x^{s-1}V(x),\\qquad\n \\operatorname{rad}(U)=\\operatorname{rad}(V)=r_{2,s}.\n\\]",
+      "status": "preparing",
+      "target_digest": null,
+      "title": "Integral-product extensions and an alternative proof of Dong's (2026) theorem on OEIS A389472, revision 7, COMMENT 3",
+      "toolchain": null,
+      "version": 2,
+      "work": "hanna-a389472-congruences"
+    },
+    {
+      "attribution": null,
+      "authors": [
+        {
+          "affiliation": "ChronoAI Pte Ltd, Singapore",
+          "name": "Haobo Ma"
+        },
+        {
+          "affiliation": "National University of Singapore; ChronoAI Pte Ltd, Singapore",
+          "name": "Wenlin Zhang"
+        }
+      ],
+      "claim": "s6",
+      "contributor": null,
+      "identity": "collected:hanna-a389472-congruences:2:s6",
+      "kind": "paper",
+      "label": "Corollary",
+      "lean_source": {
+        "revision": "074df09ddbbef1843ddb383577bfaa827f753e36",
+        "url": "https://github.com/the-omega-institute/trureturing/blob/074df09ddbbef1843ddb383577bfaa827f753e36/D5/S1/Recurrence/Parity/SquareCubeSubstitutionThreeIndexModThree.lean"
+      },
+      "lineage": "collected:hanna-a389472-congruences:s6",
+      "macros": {},
+      "next_step": "Existing Lean evidence is being checked before new proof work.",
+      "proof_basis": null,
+      "proof_state": "preparing",
+      "receipt": null,
+      "record": "hanna-a389472-congruences",
+      "scope": "in_scope",
+      "statement": "For $Q=x^d(1-x)$ put $W_d=x\\prod_{j\\ge0}(1-Q_j)$ and let $Z_d$\nbe its compositional inverse. Then\n\\[\n W_d(Q)=x^{d-1}W_d,\\qquad Z_d(x^{d-1}W_d(x))=x^d-x^{d+1}.\n\\]\nThe series of A273162 is $Z_2$, that of A350433 is $W_3$, and\nthat of A350434 is $Z_4$~\\cite{hanna-signed}.\nIn A273162, revision 12, the second FORMULA's product is $W_2$,\nthe inverse series, rather than its stated generating function $Z_2$.\nThe corrected formula is $Z_2=W_2^{\\langle-1\\rangle}$.",
+      "status": "preparing",
+      "target_digest": null,
+      "title": "Integral-product extensions and an alternative proof of Dong's (2026) theorem on OEIS A389472, revision 7, COMMENT 3",
+      "toolchain": null,
+      "version": 2,
+      "work": "hanna-a389472-congruences"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "files": {
+    "pdf": {
+      "bytes": 84064,
+      "matches_public": true,
+      "path": "paper.pdf",
+      "public_sha256": "233b80b3f936872af778e153f66bedd8a36f8449f5a77854eb94d0672cedeb1e",
+      "sha256": "233b80b3f936872af778e153f66bedd8a36f8449f5a77854eb94d0672cedeb1e"
+    },
+    "source": {
+      "bytes": 17855,
+      "matches_public": true,
+      "path": "source.archive",
+      "public_sha256": "feca751421b3d069474617f7204846de42b5cce7e129acea52a4d1ea116c4968",
+      "sha256": "feca751421b3d069474617f7204846de42b5cce7e129acea52a4d1ea116c4968"
+    }
+  },
+  "source_identity": "Mathesis public projection",
+  "work": {
+    "abstract_text": "For Paul D. Hanna's OEIS A389472, revision 7 (2025), COMMENT 3, proved by Horace Dong (2026), we give an alternative proof of a(3n-1)=0 modulo 3 for every n>1, and integral-product extensions. The recurrence proof combines coefficient extraction with the least base-three digits of its binomial coefficients. An infinite-product identity relates this sequence to Hanna's A350432; it also proves the companion parity conjecture and the stated radius of convergence. A single product calculation also establishes the functional, inverse and radius identities of ten cross-referenced sequences, and identifies a missing series reversion in A273162's product formula.",
+    "authors": [
+      {
+        "affiliation": "ChronoAI Pte Ltd, Singapore",
+        "name": "Haobo Ma"
+      },
+      {
+        "affiliation": "National University of Singapore; ChronoAI Pte Ltd, Singapore",
+        "name": "Wenlin Zhang"
+      }
+    ],
+    "concept_doi": null,
+    "current_version": 2,
+    "doi": null,
+    "lean_source": {
+      "revision": "074df09ddbbef1843ddb383577bfaa827f753e36",
+      "url": "https://github.com/the-omega-institute/trureturing/blob/074df09ddbbef1843ddb383577bfaa827f753e36/D5/S1/Recurrence/Parity/SquareCubeSubstitutionThreeIndexModThree.lean"
+    },
+    "license": "CC-BY-4.0",
+    "msc": [],
+    "pdf": {
+      "bytes": 84064,
+      "sha256": "233b80b3f936872af778e153f66bedd8a36f8449f5a77854eb94d0672cedeb1e",
+      "url": "/api/v1/collected-papers/hanna-a389472-congruences/files/pdf?version=2"
+    },
+    "previous_version": null,
+    "publication": "public",
+    "published_on": "2026-11-23T02:42:54.912857219Z",
+    "record": "hanna-a389472-congruences",
+    "repository_name": "hanna-a389472-congruences",
+    "source": {
+      "bytes": 17855,
+      "sha256": "feca751421b3d069474617f7204846de42b5cce7e129acea52a4d1ea116c4968",
+      "url": "/api/v1/collected-papers/hanna-a389472-congruences/files/source?version=2"
+    },
+    "title": "Integral-product extensions and an alternative proof of Dong's (2026) theorem on OEIS A389472, revision 7, COMMENT 3",
+    "versions": [
+      {
+        "previous_version": null,
+        "published_on": "2026-11-23T02:42:54.912857219Z",
+        "revision": "2",
+        "version": 2
+      }
+    ],
+    "work": "hanna-a389472-congruences"
+  }
+}

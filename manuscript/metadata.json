@@ -1,0 +1,24 @@
+{
+  "id": "hanna-a389472-congruences",
+  "revision": 2,
+  "problem_ids": [
+    "h3894-square-cube-three-index",
+    "oeis-a389472-square-cube-substitution-odd-index-parity"
+  ],
+  "topic": "Hanna's congruences for the normalized square-cube substitution series A389472",
+  "title": "Integral-product extensions and an alternative proof of Dong's (2026) theorem on OEIS A389472, revision 7, COMMENT 3",
+  "creators": [
+    {
+      "name": "Haobo Ma",
+      "affiliation": "ChronoAI Pte Ltd, Singapore"
+    },
+    {
+      "name": "Wenlin Zhang",
+      "affiliation": "National University of Singapore; ChronoAI Pte Ltd, Singapore"
+    }
+  ],
+  "abstract": "For Paul D. Hanna's OEIS A389472, revision 7 (2025), COMMENT 3, proved by Horace Dong (2026), we give an alternative proof of a(3n-1)=0 modulo 3 for every n>1, and integral-product extensions. The recurrence proof combines coefficient extraction with the least base-three digits of its binomial coefficients. An infinite-product identity relates this sequence to Hanna's A350432; it also proves the companion parity conjecture and the stated radius of convergence. A single product calculation also establishes the functional, inverse and radius identities of ten cross-referenced sequences, and identifies a missing series reversion in A273162's product formula.",
+  "summary": "An alternative recurrence proof of Dong's 2026 modulo-three theorem and a product proof of the parity theorem of Perez Fontelles (2026). The integral identity A=x+H^2 classifies all normalized integer solutions as x+bH^2. A general family Q=x^d(1+epsilon*x)^s supplies product, inverse and positive-radius identities for the cross-referenced sequences; A273162's literal product formula is corrected to its inverse series. Three pinned Lean declarations cover the two congruences with their respective hypotheses. The product and analytic results have written proofs. Exact finite checks cover A389472 through degree 1000 and the product families through degree 64.",
+  "license": "cc-by-4.0",
+  "evidence_url": "https://github.com/the-omega-institute/trureturing/blob/074df09ddbbef1843ddb383577bfaa827f753e36/D5/S1/Recurrence/Parity/SquareCubeSubstitutionThreeIndexModThree.lean"
+}

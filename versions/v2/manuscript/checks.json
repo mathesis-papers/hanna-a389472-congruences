@@ -1,0 +1,46 @@
+{
+  "status": "PASS",
+  "arithmetic": "exact integers",
+  "degree": 1000,
+  "coefficient_count_including_zero": 1001,
+  "coefficient_sha256": "bfa55e6b3b53e05db8075f9866211abb507766ef74bd2e8eac6bd1ada8dc1565",
+  "independent_formulas": [
+    "binomial recurrence",
+    "iterated polynomial product"
+  ],
+  "product_factors": 10,
+  "a389472_prefix_terms": 41,
+  "a350432_prefix_terms": 43,
+  "mod_two_indices": 499,
+  "mod_three_indices": 332,
+  "mod_six_indices": 166,
+  "digit_lemma_cases_upper_at_most_300": 10000,
+  "sibling_checks": {
+    "degree": 64,
+    "matched_source_prefixes": {
+      "A350431": 29,
+      "A350432": 43,
+      "A369545": 37,
+      "A369552": 35,
+      "A369546": 33,
+      "A369553": 31,
+      "A369547": 32,
+      "A369554": 30,
+      "A369548": 30,
+      "A369555": 28,
+      "A369549": 29,
+      "A369556": 27,
+      "A273162": 29,
+      "A350433": 51,
+      "A350434": 29
+    },
+    "functional_and_inverse_identity_checks": 28,
+    "two_sided_reversion_pairs": 14,
+    "a273162_formula_2_second_coefficients": {
+      "stated_series": 1,
+      "literal_product": -1
+    },
+    "coverage": "Product families, both compositional inverse equations, source prefixes, power identities, and the corrected A273162 inverse-product formula."
+  },
+  "coverage": "Finite checks of the recurrence, product identity, source prefixes and congruences; the all-index statements have written proofs in note.tex."
+}
