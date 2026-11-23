@@ -5,13 +5,15 @@
 For Paul D. Hanna's OEIS A389472, revision 7 (2025), COMMENT 3, proved by Horace Dong (2026), we give an alternative proof of a(3n-1)=0 modulo 3 for every n>1, and integral-product extensions. The recurrence proof combines coefficient extraction with the least base-three digits of its binomial coefficients. An infinite-product identity relates this sequence to Hanna's A350432; it also proves the companion parity conjecture and the stated radius of convergence. A single product calculation also establishes the functional, inverse and radius identities of ten cross-referenced sequences, and identifies a missing series reversion in A273162's product formula.
 
 - PDF: [frozen public file](paper.pdf)
+- DOI: [https://doi.org/10.5281/zenodo.24409465](https://doi.org/10.5281/zenodo.24409465)
+- Concept DOI: [https://doi.org/10.5281/zenodo.24409464](https://doi.org/10.5281/zenodo.24409464)
 - License: CC-BY-4.0
 - Version: 2
 - Mathesis record: [hanna-a389472-congruences](https://mathesis-omega-research.apps.chrono-ai.fun/papers/hanna-a389472-congruences?version=2)
 
 ## How to cite
 
-Haobo Ma, Wenlin Zhang (2026). Integral-product extensions and an alternative proof of Dong's (2026) theorem on OEIS A389472, revision 7, COMMENT 3. Mathesis, version 2. https://mathesis-omega-research.apps.chrono-ai.fun/papers/hanna-a389472-congruences?version=2
+Haobo Ma, Wenlin Zhang (2026). Integral-product extensions and an alternative proof of Dong's (2026) theorem on OEIS A389472, revision 7, COMMENT 3. Mathesis, version 2. https://doi.org/10.5281/zenodo.24409465
 
 ## Statement progress
 
